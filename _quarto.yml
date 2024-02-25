@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "First steps in Version Control with GitHub"
+  author: 
+  - name: "Alexia Cardona"
+    orcid: 0000-0002-7877-5565
+    affiliations:
+      - name:  University of Cambridge
+  site-url: https://github.com/ac812
+  repo-url: https://github.com/ac812/test
+  repo-actions: [edit, issue]
+  sidebar:
+    logo: "/images/UoC-logo.jpg"
+
+  chapters:
+    - index.qmd
+    - chapter1.qmd
+    - chapter2.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    code-overflow: wrap
+    
+editor: visual
+

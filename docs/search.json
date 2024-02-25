@@ -60,6 +60,20 @@
     "href": "index.html#acknowledgements",
     "title": "First steps in Version Control with GitHub",
     "section": "Acknowledgements",
-    "text": "Acknowledgements"
+    "text": "Acknowledgements\n\nThanks to Mary Chester-Kadwell for guidance.\nThis course was created as part of the CDH RSE Fellowship.\nSome of the content of this course was adapted from the Reproducibile Research in R course (Cardona, Alexia 2019)"
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "First steps in Version Control with GitHub",
+    "section": "Course overview",
+    "text": "Course overview\n\n\n\n\n\n\n\nDescription  Version control helps you to write code for your research more sustainably and collaboratively, in line with best practices for open research. You might use code for collecting, analysing or visualising your data, or something else. Everyone who codes in some way can benefit from learning about version control for their daily workflow.  This workshop will cover the importance of version control when developing code and foster a culture of best practices in FAIR (Findable, Accessible, Interoperable, Reproducible) code development. We will take you through the basic use of GitHub to help you store, manage, and track changes to your code and develop code collaboratively with others.\n\n\nPrerequisites  While prior knowledge of a programming language (e.g., R or Python) would be beneficial, it is not a prerequisite.\n\n\nLearning Outcomes\n\n\nexplain what version control systems and identify their advantages and importance in open research\n\n\ncreate repositories on GitHub\n\n\ncommit changes to files in repositories on GitHub\n\n\nopen issues on GitHub\n\n\ncreate branches on GitHub\n\n\nopen pull requests and merge changes into the main branch\n\n\ndescribe the GitHub flow and be able to execute it\n\n\n\n\nTarget Audience Designed with beginners in mind, this workshop caters to those who have not yet delved into Git or GitHub.\n\nLevel: Beginner\n\n\n\n\nExercises levels\nExercises in this course are labelled with the level of difficulty of the respective exercise. These levels are designed to provide a gradual progression in difficulty, allowing learners to build on their skills and understanding as they move from one level to the next.\n\n\n\n\n\n\n\nLevel\nDescription\n\n\n\n\n\nLevel 1: Exercises in Level 1 are simple exercises designed to get you familiar with a concept or syntax.\n\n\n\nLevel 2: Exercises in Level 2 build upon the concepts introduced.\n\n\n\nLevel 3: Exercises in Level 3 are more complex and build upon concepts introduced."
+  },
+  {
+    "objectID": "index.html#citing-this-course",
+    "href": "index.html#citing-this-course",
+    "title": "First steps in Version Control with GitHub",
+    "section": "Citing this course",
+    "text": "Citing this course\nPlease cite as:"
   }
 ]

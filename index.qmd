@@ -1,7 +1,60 @@
-# Welcome {.unnumbered}
+## Course overview {.unnumbered}
+
+::: {.callout-note appearance="minimal"}
+
+<div>
+<b>Description</b> </br>
+Version control helps you to write code for your research more sustainably and collaboratively, in line with best practices for open research. You might use code for collecting, analysing or visualising your data, or something else. Everyone who codes in some way can benefit from learning about version control for their daily workflow. </br>
+This workshop will cover the importance of version control when developing code and foster a culture of best practices in FAIR (Findable, Accessible, Interoperable, Reproducible) code development. We will take you through the basic use of GitHub to help you store, manage, and track changes to your code and develop code collaboratively with others.
+</div>
+
+<div>
+<b>Prerequisites</b> </br>
+While prior knowledge of a programming language (e.g., R or Python) would be beneficial, it is not a prerequisite. 
+</div>
+
+<div>
+  <b>Learning Outcomes</b></br>
+  <ol>
+  <li>explain what version control systems and identify their advantages and importance in open research</li>
+  <li>create repositories on GitHub</li>
+  <li>commit changes to files in repositories on GitHub</li>
+  <li>open issues on GitHub</li>
+  <li>create branches on GitHub</li>
+  <li>open pull requests and merge changes into the `main` branch</li>
+  <li>describe the GitHub flow and be able to execute it</li>
+  </ol>
+</div>
+
+<div>
+  <b>Target Audience</b></br>
+  Designed with beginners in mind, this workshop caters to those who have not yet delved into Git or GitHub. 
+</div>
+
+**Level:** Beginner
+
+:::
+
+### Exercises levels
+
+Exercises in this course are labelled with the level of difficulty of the respective exercise.  These levels are designed to provide a gradual progression in difficulty, allowing learners to build on their skills and understanding as they move from one level to the next.
+
+| Level                         | Description                                                                                                                                                                   |
+|---------------|---------------------------------------------------------|
+| ![](images/stars-level-1.png) | **Level 1**: Exercises in Level 1 are simple exercises designed to get you familiar with a concept or syntax. |
+| ![](images/stars-level-2.png) | **Level 2**: Exercises in Level 2 build upon the concepts introduced.                                                                          |
+| ![](images/stars-level-3.png) | **Level 3**: Exercises in Level 3 are more complex and build upon concepts introduced.       
+
+## Citing this course
+
+Please cite as:
+
 
 
 ## Acknowledgements
+* Thanks to Mary Chester-Kadwell for guidance.
+* This course was created as part of the CDH RSE Fellowship.
+* Some of the content of this course was adapted from the Reproducibile Research in R course (Cardona, Alexia 2019)
 
 
 

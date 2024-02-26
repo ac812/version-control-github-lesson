@@ -28,7 +28,7 @@ below:
 * [Library Carpentry Lessons](https://github.com/LibraryCarpentry)
 * [Data Carpentry Lessons](https://github.com/datacarpentry)
 * [Hadley Wickham](https://github.com/hadley)
-* [This course notes](https://ac812.github.io/version-control-github-lesson)
+* [This course notes](https://github.com/ac812/version-control-github-lesson)
 
 :::
 

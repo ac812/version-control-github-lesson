@@ -48,13 +48,13 @@ Exercises in this course are labelled with the level of difficulty of the respec
 ## Citing this course
 
 Please cite as:
-
+Alexia Cardona. (2024, February 25). First steps in version control with GitHub. Zenodo. https://doi.org/10.5281/zenodo.10703130
 
 
 ## Acknowledgements
 * Thanks to Mary Chester-Kadwell for guidance.
 * This course was created as part of the CDH RSE Fellowship.
-* Some of the content of this course was adapted from the Reproducibile Research in R course (Cardona, Alexia 2019)
+* Some of the content of this course was adapted from the Reproducible Research in R course (Cardona, Alexia 2019)
 
 
 
